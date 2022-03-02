@@ -1,4 +1,4 @@
-Theme
+**Theme**
 <br>    
     > The quality of yesterday, the knowledge of today.<br>
 	> Customize your car in a number of ways and audio/video, paint, wheels, performance, suspension, and window tinting are the ones that will make the biggest impact.
@@ -16,15 +16,14 @@ What does it mean to customize a car?
 <br>
     > A custom car is a passenger vehicle that has been either substantially altered to improve its performance, often by altering or replacing the engine and transmission; made into a personal "styling" statement, using paint work and aftermarket accessories to make the car look unlike any car as delivered from the factory
 <br>
-
-Why you should customize your car?
+> Why you should customize your car?
 <br>
     > One of the biggest and more appealing reasons people customize their vehicle is to give their vehicles a boost in appearance.<br>
     > This is an easy way to do it.<br>
     > The results will make your vehicle look much cooler and aesthetically pleasing.
 <br>
 
-#FUTURE IMPROVEMENT:
+FUTURE IMPROVEMENT:
 <br>
     > We will customize their vehicle as they imagine or they can also provide the design.<br>
 	> We are planning to shifting to a software-driven model,so that we can regularly issue ongoing software updates over time to improve existing functionality and quickly add new features to the hardware framework.<br>
